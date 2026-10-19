@@ -1,0 +1,83 @@
+{
+  "rows_raw": 1576,
+  "unparseable_dates_dropped": 0,
+  "duplicate_dates_removed": 1,
+  "duplicate_dates": [
+    "2017-01-01"
+  ],
+  "missing_before": {
+    "meantemp": 0,
+    "humidity": 0,
+    "wind_speed": 0,
+    "meanpressure": 0
+  },
+  "invalid_values": [
+    {
+      "date": "2016-03-28",
+      "column": "meanpressure",
+      "value": 7679.33
+    },
+    {
+      "date": "2016-06-09",
+      "column": "meanpressure",
+      "value": 938.07
+    },
+    {
+      "date": "2016-07-24",
+      "column": "meanpressure",
+      "value": 946.31
+    },
+    {
+      "date": "2016-08-02",
+      "column": "meanpressure",
+      "value": 310.44
+    },
+    {
+      "date": "2016-08-14",
+      "column": "meanpressure",
+      "value": 633.9
+    },
+    {
+      "date": "2016-08-16",
+      "column": "meanpressure",
+      "value": -3.04
+    },
+    {
+      "date": "2016-09-24",
+      "column": "meanpressure",
+      "value": 1352.62
+    },
+    {
+      "date": "2016-11-17",
+      "column": "meanpressure",
+      "value": 1350.3
+    },
+    {
+      "date": "2016-11-28",
+      "column": "meanpressure",
+      "value": 12.05
+    },
+    {
+      "date": "2017-01-01",
+      "column": "meanpressure",
+      "value": 59.0
+    }
+  ],
+  "invalid_count": 10,
+  "missing_dates_added": 0,
+  "missing_after_flagging": {
+    "meantemp": 0,
+    "humidity": 0,
+    "wind_speed": 0,
+    "meanpressure": 10
+  },
+  "missing_after_imputation": {
+    "meantemp": 0,
+    "humidity": 0,
+    "wind_speed": 0,
+    "meanpressure": 0
+  },
+  "rows_clean": 1575,
+  "date_min": "2013-01-01",
+  "date_max": "2017-04-24"
+}

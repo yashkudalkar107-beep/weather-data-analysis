@@ -1,0 +1,5 @@
+,meantemp,humidity,wind_speed,meanpressure
+meantemp,1.0,-0.57,0.29,-0.88
+humidity,-0.57,1.0,-0.37,0.34
+wind_speed,0.29,-0.37,1.0,-0.27
+meanpressure,-0.88,0.34,-0.27,1.0

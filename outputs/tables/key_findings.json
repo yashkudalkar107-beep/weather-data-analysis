@@ -1,0 +1,68 @@
+{
+  "temp_trend": {
+    "slope_per_year": 0.658,
+    "r": 0.66,
+    "n_months": 52
+  },
+  "humidity_trend": {
+    "slope_per_year": -1.496,
+    "r": -0.339,
+    "n_months": 52
+  },
+  "hottest_month": "Jun",
+  "hottest_month_temp": 33.73,
+  "coolest_month": "Jan",
+  "coolest_month_temp": 13.81,
+  "most_humid_month": "Jan",
+  "most_humid_month_val": 78.18,
+  "driest_month": "May",
+  "driest_month_val": 35.74,
+  "windiest_month": "Jun",
+  "windiest_month_val": 9.38,
+  "temp_humidity_corr": -0.57,
+  "temp_pressure_corr": -0.88,
+  "humidity_pressure_corr": 0.34,
+  "temp_wind_corr": 0.29,
+  "annual_range_temp": 19.92,
+  "extremes": {
+    "hottest_day": {
+      "date": "2013-05-25",
+      "value": 38.71
+    },
+    "coldest_day": {
+      "date": "2013-01-05",
+      "value": 6.0
+    },
+    "most_humid_day": {
+      "date": "2015-07-11",
+      "value": 98.0
+    },
+    "driest_day": {
+      "date": "2015-05-07",
+      "value": 13.43
+    },
+    "windiest_day": {
+      "date": "2013-09-09",
+      "value": 42.22
+    }
+  },
+  "full_years": [
+    2013,
+    2014,
+    2015,
+    2016
+  ],
+  "warmest_year": 2016,
+  "coolest_year": 2013,
+  "warm_humid_day_pct_by_season": {
+    "Winter": 0.0,
+    "Summer": 0.24,
+    "Monsoon": 33.81,
+    "Post-monsoon": 3.69
+  },
+  "overall": {
+    "mean_temp": 25.23,
+    "mean_humidity": 60.42,
+    "mean_wind": 6.9
+  }
+}

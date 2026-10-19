@@ -1,0 +1,5 @@
+season,days,mean_temp,mean_humidity,mean_wind,mean_pressure,warm_humid_day_pct
+Winter,420,15.69,72.8,5.67,1016.73,0.0
+Summer,423,28.3,44.59,8.56,1007.33,0.24
+Monsoon,488,31.43,63.24,7.82,1000.58,33.81
+Post-monsoon,244,23.94,60.92,4.32,1012.52,3.69
